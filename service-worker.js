@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ofuen/hello-hooks/precache-manifest.c67ef844e2039b63eea1fb8beeae68a9.js"
+  "/hello-hooks/precache-manifest.fe065a44032d211ba59bd0d757e52900.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ofuen/hello-hooks/index.html", {
+workbox.routing.registerNavigationRoute("/hello-hooks/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

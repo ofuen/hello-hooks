@@ -1,11 +1,11 @@
 {
-  "main.js": "/ofuen/hello-hooks/static/js/main.77f16505.chunk.js",
-  "main.js.map": "/ofuen/hello-hooks/static/js/main.77f16505.chunk.js.map",
-  "static/js/1.4a95e608.chunk.js": "/ofuen/hello-hooks/static/js/1.4a95e608.chunk.js",
-  "static/js/1.4a95e608.chunk.js.map": "/ofuen/hello-hooks/static/js/1.4a95e608.chunk.js.map",
-  "runtime~main.js": "/ofuen/hello-hooks/static/js/runtime~main.b3559d5f.js",
-  "runtime~main.js.map": "/ofuen/hello-hooks/static/js/runtime~main.b3559d5f.js.map",
-  "index.html": "/ofuen/hello-hooks/index.html",
-  "precache-manifest.c67ef844e2039b63eea1fb8beeae68a9.js": "/ofuen/hello-hooks/precache-manifest.c67ef844e2039b63eea1fb8beeae68a9.js",
-  "service-worker.js": "/ofuen/hello-hooks/service-worker.js"
+  "main.js": "/hello-hooks/static/js/main.77f16505.chunk.js",
+  "main.js.map": "/hello-hooks/static/js/main.77f16505.chunk.js.map",
+  "static/js/1.4a95e608.chunk.js": "/hello-hooks/static/js/1.4a95e608.chunk.js",
+  "static/js/1.4a95e608.chunk.js.map": "/hello-hooks/static/js/1.4a95e608.chunk.js.map",
+  "runtime~main.js": "/hello-hooks/static/js/runtime~main.e159c33e.js",
+  "runtime~main.js.map": "/hello-hooks/static/js/runtime~main.e159c33e.js.map",
+  "index.html": "/hello-hooks/index.html",
+  "precache-manifest.fe065a44032d211ba59bd0d757e52900.js": "/hello-hooks/precache-manifest.fe065a44032d211ba59bd0d757e52900.js",
+  "service-worker.js": "/hello-hooks/service-worker.js"
 }
