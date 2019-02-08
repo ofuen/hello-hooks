@@ -2,7 +2,7 @@
   "name": "hellohooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ofuen/hello-hooks/",
+  "homepage": "https://ofuen.github.io/hello-hooks",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.1",
