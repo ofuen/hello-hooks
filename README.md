@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To install React 16 with Yarn, run:
-`yarn add react@^16.8.2 react-dom@^16.8.2`
+`yarn add react@^16.8.3 react-dom@^16.8.3`
 
 ## To install React 16 with npm, run:
-`npm install --save react@^16.8.2 react-dom@^16.8.2`
+`npm install --save react@^16.8.3 react-dom@^16.8.3`
 
 ## Available Scripts
 
