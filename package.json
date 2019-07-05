@@ -5,7 +5,8 @@
   "homepage": "https://ofuen.github.io/hello-hooks",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "handlebars": "^4.1.0",
+    "handlebars": "^4.1.2",
+    "js-yaml": "^3.13.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^2.1.8"
