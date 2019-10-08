@@ -12,6 +12,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "^3.2.0",
+    "set-value": "^3.0.1",
     "yarn": "^1.19.0"
   },
   "scripts": {
