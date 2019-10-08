@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.js": "/hello-hooks/static/js/main.dbc58f96.chunk.js",
-    "main.js.map": "/hello-hooks/static/js/main.dbc58f96.chunk.js.map",
-    "runtime~main.js": "/hello-hooks/static/js/runtime~main.1f21b8ce.js",
-    "runtime~main.js.map": "/hello-hooks/static/js/runtime~main.1f21b8ce.js.map",
-    "static/js/2.28d6930a.chunk.js": "/hello-hooks/static/js/2.28d6930a.chunk.js",
-    "static/js/2.28d6930a.chunk.js.map": "/hello-hooks/static/js/2.28d6930a.chunk.js.map",
+    "main.js": "/hello-hooks/static/js/main.f5113fde.chunk.js",
+    "main.js.map": "/hello-hooks/static/js/main.f5113fde.chunk.js.map",
+    "runtime-main.js": "/hello-hooks/static/js/runtime-main.683d5d51.js",
+    "runtime-main.js.map": "/hello-hooks/static/js/runtime-main.683d5d51.js.map",
+    "static/js/2.83eee2d2.chunk.js": "/hello-hooks/static/js/2.83eee2d2.chunk.js",
+    "static/js/2.83eee2d2.chunk.js.map": "/hello-hooks/static/js/2.83eee2d2.chunk.js.map",
     "index.html": "/hello-hooks/index.html",
-    "precache-manifest.c1d1dc8890dc9f20ac3ec16ed63e20bb.js": "/hello-hooks/precache-manifest.c1d1dc8890dc9f20ac3ec16ed63e20bb.js",
+    "precache-manifest.1a3d9e02e394ff28eff885a0068caf40.js": "/hello-hooks/precache-manifest.1a3d9e02e394ff28eff885a0068caf40.js",
     "service-worker.js": "/hello-hooks/service-worker.js"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.683d5d51.js",
+    "static/js/2.83eee2d2.chunk.js",
+    "static/js/main.f5113fde.chunk.js"
+  ]
 }
