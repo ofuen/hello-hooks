@@ -15,7 +15,7 @@
     "react-scripts": "^3.3.0",
     "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "predeploy": "npm run build",
