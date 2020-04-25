@@ -1,0 +1,2 @@
+(this.webpackJsonphellohooks=this.webpackJsonphellohooks||[]).push([[0],{4:function(e,t,n){e.exports=n(5)},5:function(e,t,n){"use strict";n.r(t);var o=n(3),r=n(0),a=n.n(r),l=n(2),c=n.n(l);function u(){var e=Object(r.useState)(0),t=Object(o.a)(e,2),n=t[0],l=t[1];return a.a.createElement("div",null,a.a.createElement("h1",null,n),a.a.createElement("button",{onClick:function(){return l(n+1)}},"Count Up To The Moon"))}var s=document.getElementById("root");c.a.render(a.a.createElement(u,null),s)}},[[4,1,2]]]);
+//# sourceMappingURL=main.24eeafc1.chunk.js.map
