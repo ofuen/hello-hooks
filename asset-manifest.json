@@ -4,16 +4,16 @@
     "main.js.map": "/hello-hooks/static/js/main.ef107667.chunk.js.map",
     "runtime-main.js": "/hello-hooks/static/js/runtime-main.fb7baa8a.js",
     "runtime-main.js.map": "/hello-hooks/static/js/runtime-main.fb7baa8a.js.map",
-    "static/js/2.19ac707f.chunk.js": "/hello-hooks/static/js/2.19ac707f.chunk.js",
-    "static/js/2.19ac707f.chunk.js.map": "/hello-hooks/static/js/2.19ac707f.chunk.js.map",
+    "static/js/2.5a501551.chunk.js": "/hello-hooks/static/js/2.5a501551.chunk.js",
+    "static/js/2.5a501551.chunk.js.map": "/hello-hooks/static/js/2.5a501551.chunk.js.map",
     "index.html": "/hello-hooks/index.html",
-    "precache-manifest.c7c93a0f4baf77a7948f7777814c0859.js": "/hello-hooks/precache-manifest.c7c93a0f4baf77a7948f7777814c0859.js",
+    "precache-manifest.d0dfb296173404564fccebf0021d3d78.js": "/hello-hooks/precache-manifest.d0dfb296173404564fccebf0021d3d78.js",
     "service-worker.js": "/hello-hooks/service-worker.js",
-    "static/js/2.19ac707f.chunk.js.LICENSE.txt": "/hello-hooks/static/js/2.19ac707f.chunk.js.LICENSE.txt"
+    "static/js/2.5a501551.chunk.js.LICENSE.txt": "/hello-hooks/static/js/2.5a501551.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fb7baa8a.js",
-    "static/js/2.19ac707f.chunk.js",
+    "static/js/2.5a501551.chunk.js",
     "static/js/main.ef107667.chunk.js"
   ]
 }
